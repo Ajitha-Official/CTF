@@ -37,4 +37,4 @@ Ans: 230
 10. There are a couple of commands we can use to list the files and directories available on the FTP server. One is dir. What is the other that is a common way to list files on a Linux system.
 Ans: ls
 11. What is the command used to download the file we found on the FTP server?
-Ans: get
+Ans: get 
